@@ -1,7 +1,12 @@
 # Accuracy Is Not Enough  
 ## Confusion Matrix Metrics That Actually Work in CVE Impact Prediction
-
 *by Keerthana Purushotham • 6 min read*
+
+### 🔗 Read the full post here:
+- Medium: [medium.com/post/d4bafd9cec1b](https://medium.com/post/d4bafd9cec1b)
+- Substack: [substack.com/home/post/p-174062640](https://substack.com/home/post/p-174062640)
+- LinkedIn: [linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj/)
+---
 
 In cybersecurity, mapping vulnerabilities (CVEs) across Linux distributions is not just classification — it’s risk control. Whether `python-requests` in Debian matches `python3-requests` in Red Hat can mean the difference between a patched system and an exploitable one.
 
