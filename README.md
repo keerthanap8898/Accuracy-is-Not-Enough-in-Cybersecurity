@@ -203,6 +203,31 @@ This leveled framework transforms the confusion matrix into a decision map — o
 ![Confusion_matrix_Cheat-Sheet.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/Confusion_matrix_Cheat-Sheet.png)
 
 ---
+They’re all metrics that are easy to map with ingestion tools too — niche statistics you’d commonly see around ML models but mathematically speaking, they apply to any statistically, predictive black box.
 
+## For example,
+**CVE-2023–48022** is an epitome of how a disputed CVE turned into a false-negative, hiding an actively exploited bug downstream. Tracking False-Negative-Rate (FNR) or Negative-Likelihood-Ratio (NLR) would’ve flagged very early on that “safe/unaffected” wasn’t safe. Even MCC would’ve exposed the imbalance of missing rare but critical vulnerabilities.
+
+- The JSON for OSV template has attributes that can be automated,
+  - CNA [disputed] → implying no urgent fix needed.
+  - CISA [affected] → treat as dangerous.
+- CVE-2023–48022 : github.com/CVEProject/cvelistV5/blob/main/cves/2023/48xxx/CVE-2023-48022.json
+  - ![OSV for CVE 2023-48022](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/CVE-2023-48022.png)
+
+#### `That’s the FN suppressed incorrectly when it was being actively exploited.`
+- FNR (↑) spikes to 1 if an exploited vulnerability is missed.
+- NLR (↑) the “safe/unaffected” label was untrustworthy.
+- MCC (↓) correlation drops since a rare but critical positive was missed.
+
+```
+All this obviously depends on the timing of & if exploitations/bugs in your tool are identifiable.
+```
+
+To help visualize the dashboard, I plotted a sample and it would look something like this — image attached below.
+
+  - ![Example - How to read these metrics](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/Matthews%20Correlation%20Coefficient%20(MCC)%20Trend.png)
+
+The blue arrows along the MCC graph indicates decrease in overall prediction-mapping trust.
+---
 * Follow me on [LinkedIn](https://www.linkedin.com/in/keerthanapurushotham/) for more work.  
-* Email: keep.consult@proton.me*
+* Email: keep.consult@proton.me
