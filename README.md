@@ -5,8 +5,8 @@
     Copyright (C) 2025  Keerthana Purushotham <keep.consult@proton.me>.
     Licensed under the GNU AGPL v3. See LICENSE for details.
 
->     Citation
->     1. APA (7th Edition) - 
+### Cite this article -
+>     1. APA (7th Edition):
 >        '''
 >        Purushotham, K. (2024, [Month Day]). Accuracy is not enough: Confusion matrix metrics that actually work in CVE impact prediction. [Substack.
 >        keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
@@ -14,7 +14,7 @@
 >        [Medium](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
 >        [GitHub](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main)
 >        '''   
->     2. IEEE Style
+>     2. IEEE Style:
 >        '''
 >        K. Purushotham, “Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction,” Substack, Oct. 2024. [Open-source on Substack: 
 >        keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
@@ -22,7 +22,7 @@
 >        [Medium](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
 >        [GitHub](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main)
 >        '''
->     3. BibTeX Entry
+>     3. BibTeX Entry:
 >       ```bibtex
 >         @misc{purushotham2024accuracy,
 >         author       = {Keerthana Purushotham},
