@@ -6,36 +6,102 @@
     Licensed under the GNU AGPL v3. See LICENSE for details.
 
 ### Cite this article -
->     1. APA (7th Edition):
->        '''
->        Purushotham, K. (2024, [Month Day]). Accuracy is not enough: Confusion matrix metrics that actually work in CVE impact prediction. [Substack.
->        keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
->        Also available at:
->        [Medium](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
->        [GitHub](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main)
->        '''   
->     2. IEEE Style:
->        '''
->        K. Purushotham, “Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction,” Substack, Oct. 2024. [Open-source on Substack: 
->        keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
->        Also available at:
->        [Medium](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
->        [GitHub](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main)
->        '''
->     3. BibTeX Entry:
->       ```bibtex
->         @misc{purushotham2024accuracy,
+
+> ####    1. `Plain Text` : 
+>     ```text/md
+>         Purushotham, K. (2025, September 19th). *Accuracy is not enough: Confusion matrix metrics that actually work in CVE impact prediction.* Substack. https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion
+>         
+>         Also available at:
+>         - Medium: https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b  
+>         - GitHub: https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main
+>     ```
+> ####    2. `APA (7th Edition)` :
+>     ```text/md
+>         Purushotham, K. (2025, [September 19th]). Accuracy is not enough: Confusion matrix metrics that actually work in CVE impact prediction. [Substack - keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
+>         Also available at:
+>         [Medium](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
+>         [GitHub](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main)
+>     ```
+> ####    3. `IEEE Style` :
+>     ```text/md
+>         K. Purushotham, “Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction,” Substack, Sep. 2025. [Open-source on Substack: keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
+>         Also available at:
+>         - [Medium](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
+>         - [GitHub](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main)
+>     ```
+> ####    4. `BibTeX Entry` :
+>     ```bibtex
+>         @misc{purushotham2025accuracy,
 >         author       = {Keerthana Purushotham},
 >         title        = {Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction},
 >         howpublished = {Substack},
->         year         = {2024},
->         month        = {October},
+>         year         = {2025},
+>         month        = {September},
 >         url          = {https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion},
 >         note         = {Also available on Medium and GitHub: 
 >                         \url{https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b}, 
 >                         \url{https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity}}
 >                        }
->        ```
+>     ```
+> ####    5. `MODS xml` :
+>     ```xml
+>         <mods xmlns="http://www.loc.gov/mods/v3" version="3.7">
+>         <titleInfo>
+>           <title>Accuracy Is Not Enough</title>
+>           <subTitle>Confusion Matrix Metrics That Actually Work in CVE Impact Prediction</subTitle>
+>         </titleInfo>
+>       
+>         <name type="personal">
+>           <namePart>Purushotham, Keerthana</namePart>
+>           <role>
+>             <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+>           </role>
+>         </name>
+>       
+>         <typeOfResource>text</typeOfResource>
+>         <genre>Blog post</genre>
+>       
+>         <originInfo>
+>           <publisher>Substack</publisher>
+>           <place>
+>             <placeTerm type="text">Online</placeTerm>
+>           </place>
+>           <dateIssued encoding="w3cdtf" keyDate="yes">2025-09</dateIssued>
+>         </originInfo>
+>       
+>         <language>
+>           <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+>         </language>
+>       
+>         <identifier type="uri">https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion</identifier>
+>       
+>         <location>
+>           <url usage="primary display">https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion</url>
+>         </location>
+>       
+>         <relatedItem type="otherVersion" displayLabel="Also available at">
+>           <location>
+>             <url>https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b</url>
+>           </location>
+>         </relatedItem>
+>       
+>         <relatedItem type="otherVersion">
+>           <location>
+>             <url>https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity</url>
+>           </location>
+>         </relatedItem>
+>       
+>         <note type="statement of responsibility">By Keerthana Purushotham.</note>
+>       
+>         <recordInfo>
+>           <recordContentSource>Self-deposited</recordContentSource>
+>           <recordCreationDate encoding="w3cdtf">2025-09-19</recordCreationDate>
+>           <languageOfCataloging>
+>             <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+>           </languageOfCataloging>
+>         </recordInfo>
+>       </mods>
+>     ```
 
 ### 🔗 Read the full post here:
 - Medium: [medium.com/post/d4bafd9cec1b](https://medium.com/post/d4bafd9cec1b)
@@ -168,14 +234,6 @@ Complements:
 
 ---
 
-## Closing
-
-> Security & threat impact prediction is not about being “mostly right.” It’s about being *“right where it counts.”*
-
-This leveled framework transforms the confusion matrix into a decision map — one that uncovers blind spots, tames operational noise, and aligns predictions with real-world risk.
-
----
-
 ### Glossary of Acronyms
 
 1. **CVE** — Common Vulnerabilities and Exposures  
@@ -228,6 +286,16 @@ To help visualize the dashboard, I plotted a sample and it would look something 
   - ![Example - How to read these metrics](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/Matthews%20Correlation%20Coefficient%20(MCC)%20Trend.png)
 
 The blue arrows along the MCC graph indicates decrease in overall prediction-mapping trust.
+
+
+---
+
+## Closing
+
+> Security & threat impact prediction is not about being “mostly right.” It’s about being *“right where it counts.”*
+
+This leveled framework transforms the confusion matrix into a decision map — one that uncovers blind spots, tames operational noise, and aligns predictions with real-world risk.
+
 ---
 * Follow me on [LinkedIn](https://www.linkedin.com/in/keerthanapurushotham/) for more work.  
 * Email: keep.consult@proton.me
