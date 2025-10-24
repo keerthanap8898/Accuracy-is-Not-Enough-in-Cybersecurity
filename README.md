@@ -135,7 +135,7 @@ Complements:
   - ![Balanced_Accuracy.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/formulae_images/Balanced_Accuracy.png)
 
 - **Youden’s J:** Quick threshold selector maximizing separation from randomness  
-  - ![Youdens_J.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/formulae_images/Youdens_J.png)
+  - ![Youdens_J.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/formulae_images/Youdens_J%20.png)
 
 ---
 
