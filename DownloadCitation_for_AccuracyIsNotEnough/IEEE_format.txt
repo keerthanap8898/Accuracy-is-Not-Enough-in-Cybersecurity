@@ -1,0 +1,6 @@
+
+K. Purushotham, “Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction,” Substack, Sep. 2025. Open-source on Substack: keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion
+
+Also available at:
+- [ Medium ] medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b
+- [ GitHub ] github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity
