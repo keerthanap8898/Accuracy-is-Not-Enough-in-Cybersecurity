@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.7">
+<titleInfo>
+  <title>Accuracy Is Not Enough</title>
+  <subTitle>Confusion Matrix Metrics That Actually Work in CVE Impact Prediction</subTitle>
+</titleInfo>
+
+<name type="personal">
+  <namePart>Purushotham, Keerthana</namePart>
+  <role>
+    <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+  </role>
+</name>
+
+<typeOfResource>text</typeOfResource>
+<genre>Blog post</genre>
+
+<originInfo>
+  <publisher>Substack</publisher>
+  <place>
+    <placeTerm type="text">Online</placeTerm>
+  </place>
+  <dateIssued encoding="w3cdtf" keyDate="yes">2025-09</dateIssued>
+</originInfo>
+
+<language>
+  <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+
+<identifier type="uri">https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion</identifier>
+
+<location>
+  <url usage="primary display">https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion</url>
+</location>
+
+<relatedItem type="otherVersion" displayLabel="Also available at">
+  <location>
+    <url>https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b</url>
+  </location>
+</relatedItem>
+
+<relatedItem type="otherVersion">
+  <location>
+    <url>https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity</url>
+  </location>
+</relatedItem>
+
+<note type="statement of responsibility">By Keerthana Purushotham.</note>
+
+<recordInfo>
+  <recordContentSource>Self-deposited</recordContentSource>
+  <recordCreationDate encoding="w3cdtf">2025-09-19</recordCreationDate>
+  <languageOfCataloging>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </languageOfCataloging>
+</recordInfo>
+</mods>
