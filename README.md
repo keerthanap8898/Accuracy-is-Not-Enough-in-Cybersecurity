@@ -1,12 +1,13 @@
-# Accuracy Is Not Enough  
-## Confusion Matrix Metrics That Actually Work in CVE Impact Prediction
-*by Keerthana Purushotham • 6 min read*
-
-    Copyright (C) 2025  Keerthana Purushotham <keep.consult@proton.me>.
-    Licensed under the GNU AGPL v3. See LICENSE for details.
-
-### Cite this article -
-
+# `Accuracy Is Not Enough` 
+### ┈ *Confusion Matrix Metrics That Actually Work in CVE Impact Prediction.* ┈
+> *by Keerthana Purushotham • 6 min read*
+> 
+>     Copyright ⓒ 2025  Keerthana Purushotham <keep.consult@proton.me>.
+>     Licensed under the GNU AGPL v3. See LICENSE for details.
+---
+### Cite this article - 
+> ##### [*`github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main/Cite_this_Article`*](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main/Cite_this_Article)
+> ##
 > ####    1. `Plain Text` : 
 >     ```text/md
 >         Purushotham, K. (2025, September 19th). *Accuracy is not enough: Confusion matrix metrics that actually work in CVE impact prediction.* Substack. https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion
@@ -103,45 +104,40 @@
 >       </mods>
 >     ```
 
-### 🔗 Read the full post here:
-- Medium: [medium.com/post/d4bafd9cec1b](https://medium.com/post/d4bafd9cec1b)
-- Substack: [substack.com/home/post/p-174062640](https://substack.com/home/post/p-174062640)
-- LinkedIn: [linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj/)
+#### 🔗 Read the full post here:
+> - Medium: [medium.com/post/d4bafd9cec1b](https://medium.com/post/d4bafd9cec1b)
+> - Substack: [substack.com/home/post/p-174062640](https://substack.com/home/post/p-174062640)
+> - LinkedIn: [linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj/)
 ---
 
-In cybersecurity, mapping vulnerabilities (CVEs) across Linux distributions is not just classification — it’s risk control. Whether `python-requests` in Debian matches `python3-requests` in Red Hat can mean the difference between a patched system and an exploitable one.
+### **In cybersecurity**, 
+#### ┈ mapping vulnerabilities (CVEs) across Linux distributions is not just classification — it’s risk control. Whether `python-requests` in Debian matches `python3-requests` in Red Hat can mean the difference between a patched system and an exploitable one.
 
-## Why does this matter?
+#### Why does this matter?
 
-> False negatives (missed vulnerabilities) leave blind spots.  
-> False positives (over-flagged safe packages) burn developer time and erode trust.  
-> Accuracy hides both problems.
+> ##### False negatives (missed vulnerabilities) leave blind spots.  
+> ##### False positives (over-flagged safe packages) burn developer time and erode trust.  
+> ##### Accuracy hides both problems.
 
-### The solution: 
-***treat the confusion matrix as a toolbox, and climb through its metrics step by step.***
-
-#### Leveled Confusion Matrix Metrics Framework (L0–L6)
-![confusion_matrix_levels_pyramid.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/confusion_matrix_levels_pyramid.png)
-
+#### **The solution**:
+ - *treat the confusion matrix as a toolbox, and climb through its metrics step by step.*
 ---
-
-## Trade-Offs:
-
-### False Negatives  
-The cost of not only missing the goal but causing a loss that can end in catastrophe (e.g. a 0-day CVE miss, undetected sepsis, or a satellite collision that wipes out a multi-billion-dollar asset). That’s why systems lean heavily on redundancy, richer signals, and continuous error-analysis to “catch what matters most.”
-
-### False Positives  
-Less risky, but they erode trust and waste resources. Too many false alarms = alert fatigue, extra labor, wasted cycles (e.g. trade entries falsely flagged as fraud, AV systems braking on empty roads, false debris alarms in space). Even justice systems suffer: mis-applied risk scores can harm real lives.
-
-#### Domain Specific Examples  
-![Domain_examples.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/Domain_examples.png)
-
-#### Visualization of FN vs FP tradeoffs across industries.
-![FNvsFP_Trade-offs_across_Domains.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/FNvsFP_Trade-offs_across_Domains.png)
-
+### Leveled Confusion Matrix Metrics Framework (L0–L6)
+> ![confusion_matrix_levels_pyramid.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/confusion_matrix_levels_pyramid.png)
+##
+### Trade-Offs:
+> #### False Negatives  
+> The cost of not only missing the goal but causing a loss that can end in catastrophe (e.g. a 0-day CVE miss, undetected sepsis, or a satellite collision that wipes out a multi-billion-dollar asset). That’s why systems lean heavily on redundancy, richer signals, and continuous error-analysis to “catch what matters most.”
+> #### False Positives  
+> Less risky, but they erode trust and waste resources. Too many false alarms = alert fatigue, extra labor, wasted cycles (e.g. trade entries falsely flagged as fraud, AV systems braking on empty roads, false debris alarms in space). Even justice systems suffer: mis-applied risk scores can harm real lives.
 ---
-
-### Level 0: Core Counts (Primitives)
+### Domain Specific Examples  
+> ![Domain_examples.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/Domain_examples.png)
+---
+### Visualization of FN vs FP tradeoffs across industries.
+> ![FNvsFP_Trade-offs_across_Domains.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/FNvsFP_Trade-offs_across_Domains.png)
+---
+## Level 0: Core Counts (Primitives)
 The foundation of all metrics:
 - **TP (True Positive):** Vulnerable package correctly flagged  
 - **TN (True Negative):** Safe package correctly ignored  
@@ -164,7 +160,7 @@ The foundation of all metrics:
 
 ---
 
-### Level 2: Predictive Values (per outcome)
+## Level 2: Predictive Values (per outcome)
 - **Precision (PPV):** Of the flagged packages, how many are truly vulnerable?  
   - ![Precision.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/formulae_images/Precision.png)
 
@@ -179,7 +175,7 @@ Complements:
 
 ---
 
-### Level 3: Likelihood Ratios (decision-level odds)
+## Level 3: Likelihood Ratios (decision-level odds)
 - **Positive Likelihood Ratio (PLR):** How much a positive result increases odds of vulnerability  
   - ![Positive_Likelihood_Ratio.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/formulae_images/Positive_Likelihood_Ratio.png)
 
@@ -190,7 +186,7 @@ Complements:
 
 ---
 
-### Level 4: Balanced Metrics (threshold trade-offs)
+## Level 4: Balanced Metrics (threshold trade-offs)
 - **F1-Positive:** Balances catching vulnerabilities vs avoiding wasted alerts  
   - ![pos_F1_Score.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/formulae_images/pos_F1_Score.png)
 
@@ -205,7 +201,7 @@ Complements:
 
 ---
 
-### Level 5: Agreement and Global Correlation
+## Level 5: Agreement and Global Correlation
 - **Cohen’s Kappa (κ):** Corrected measure of agreement beyond chance  
   - ![Cohens_Kappa.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/formulae_images/Cohens_Kappa.png)
 
@@ -214,7 +210,7 @@ Complements:
 
 ---
 
-### Level 6: Baseline Snapshot
+## Level 6: Baseline Snapshot
 - **Accuracy:** A quick overall number — but misleading when vulnerabilities are rare  
   - ![plain_Accuracy.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/formulae_images/plain_Accuracy.png)
 
@@ -222,7 +218,7 @@ Complements:
 
 ---
 
-## Practical Recommendations
+### Practical Recommendations
 
 - Lead with **Recall** and **FNR**, because misses are catastrophic  
 - Track **FOR** and **NLR**, because trusting “safe” labels is risky  
@@ -254,48 +250,35 @@ Complements:
 16. **BA / Balanced Accuracy** — Average of Recall and Specificity  
 17. **MCC** — Matthews Correlation Coefficient  
 18. **κ / Cohen’s Kappa** — Chance-corrected measure of agreement  
-
 ---
-
 ### Summary Cheat Sheet:
-![Confusion_matrix_Cheat-Sheet.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/Confusion_matrix_Cheat-Sheet.png)
-
+> ![Confusion_matrix_Cheat-Sheet.png](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/Confusion_matrix_Cheat-Sheet.png)
 ---
 They’re all metrics that are easy to map with ingestion tools too — niche statistics you’d commonly see around ML models but mathematically speaking, they apply to any statistically, predictive black box.
-
-## For example,
+### For example,
 **CVE-2023–48022** is an epitome of how a disputed CVE turned into a false-negative, hiding an actively exploited bug downstream. Tracking False-Negative-Rate (FNR) or Negative-Likelihood-Ratio (NLR) would’ve flagged very early on that “safe/unaffected” wasn’t safe. Even MCC would’ve exposed the imbalance of missing rare but critical vulnerabilities.
-
 - The JSON for OSV template has attributes that can be automated,
   - CNA [disputed] → implying no urgent fix needed.
   - CISA [affected] → treat as dangerous.
-- CVE-2023–48022 : github.com/CVEProject/cvelistV5/blob/main/cves/2023/48xxx/CVE-2023-48022.json
-  - ![OSV for CVE 2023-48022](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/CVE-2023-48022.png)
-
+> - CVE-2023–48022 : github.com/CVEProject/cvelistV5/blob/main/cves/2023/48xxx/CVE-2023-48022.json
+>   - ![OSV for CVE 2023-48022](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/CVE-2023-48022.png)
 #### `That’s the FN suppressed incorrectly when it was being actively exploited.`
+```
 - FNR (↑) spikes to 1 if an exploited vulnerability is missed.
 - NLR (↑) the “safe/unaffected” label was untrustworthy.
 - MCC (↓) correlation drops since a rare but critical positive was missed.
-
 ```
-All this obviously depends on the timing of & if exploitations/bugs in your tool are identifiable.
-```
-
-To help visualize the dashboard, I plotted a sample and it would look something like this — image attached below.
-
-  - ![Example - How to read these metrics](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/Matthews%20Correlation%20Coefficient%20(MCC)%20Trend.png)
-
+### To help visualize the dashboard, I plotted a sample and it would look something like this — image attached below.
+#### *All this obviously depends on the timing of & if exploitations/bugs in your tool are identifiable.*
+> ![Example - How to read these metrics](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/Matthews%20Correlation%20Coefficient%20(MCC)%20Trend.png)
 The blue arrows along the MCC graph indicates decrease in overall prediction-mapping trust.
+---
+### Closing
+#### *`Security/threat impact prediction isn't about being “mostly right.” It’s about being “right where it counts.”`*
 
+Thus, this leveled framework transforms the confusion matrix into a decision map — one that uncovers blind spots, tames operational noise, and aligns predictions with real-world risk.
 
 ---
-
-## Closing
-
-> Security & threat impact prediction is not about being “mostly right.” It’s about being *“right where it counts.”*
-
-This leveled framework transforms the confusion matrix into a decision map — one that uncovers blind spots, tames operational noise, and aligns predictions with real-world risk.
-
----
-* Follow me on [LinkedIn](https://www.linkedin.com/in/keerthanapurushotham/) for more work.  
-* Email: keep.consult@proton.me
+* Follow me on [LinkedIn - linkedin.com/in/keerthanapurushotham](https://www.linkedin.com/in/keerthanapurushotham/) for more work.  
+* Email: [keep.consult@proton.me](mailto:keep.consult@proton.me)
+* Cite this Article: [github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main/Cite_this_Article](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main/Cite_this_Article)
