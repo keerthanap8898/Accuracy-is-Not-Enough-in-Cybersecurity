@@ -121,6 +121,8 @@
 > - Medium: [medium.com/post/d4bafd9cec1b](https://medium.com/post/d4bafd9cec1b)
 > - Substack: [substack.com/home/post/p-174062640](https://substack.com/home/post/p-174062640)
 > - LinkedIn: [linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj/)
+> - Zenodo: [zenodo.org/records/17438183](https://zenodo.org/records/17438183)
+> - Github (*this repo*): [github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity)
 ---
 
 ### **In cybersecurity**, 
