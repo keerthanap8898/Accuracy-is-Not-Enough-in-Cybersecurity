@@ -5,117 +5,6 @@
 >     Copyright ⓒ 2025  Keerthana Purushotham <keep.consult@proton.me>.
 >     Licensed under the GNU AGPL v3. See LICENSE for details.
 >     https://zenodo.org/records/17438183
----
-### Cite this article - 
-> ##### [*`github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main/Cite_this_Article`*](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main/Cite_this_Article)
-> ##
-> ####    1. `Plain Text` : 
->     ```text/md
->         Purushotham, K. (2025, September 19th). *Accuracy is not enough: Confusion matrix metrics that actually work in CVE impact prediction.* Zenodo - [DOI 10.5281/zenodo.17438182](https://doi.org/10.5281/zenodo.17438183) .
->         
->         Also available at:
->         - Substack: https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion
->         - Medium: https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b  
->         - GitHub: https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main
->     ```
-> ####    2. `APA (7th Edition)` :
->     ```text/md
->         Purushotham, K. (2025, [September 19th]). Accuracy is not enough: Confusion matrix metrics that actually work in CVE impact prediction. DOI 10.5281/zenodo.17438182 - ( https://doi.org/10.5281/zenodo.17438183 ) .
->         Also available at:
->         - [Substack](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
->         - [Medium](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
->         - [GitHub](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main)
->     ```
-> ####    3. `IEEE Style` :
->     ```text/md
->         K. Purushotham, “Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction,” Substack, Sep. 2025.  DOI 10.5281/zenodo.17438182 - ( https://doi.org/10.5281/zenodo.17438183 ) .
->         Also available at:
->         - [Substack](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
->         - [Medium](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
->         - [GitHub](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main)
->     ```
-> ####    4. `BibTeX Entry` :
->     ```bibtex
->         @misc{purushotham2025accuracy,
->         author       = {Keerthana Purushotham},
->         title        = {Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction},
->         howpublished = {Zenodo},
->         year         = {2025},
->         month        = {September},
->         doi          = {10.5281/zenodo.17438182}
->         url          = {https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion},
->         note         = {Also available on Substack, Medium and GitHub: 
->                         \url{https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion},
->                         \url{https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b}, 
->                         \url{https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity}}
->                        }
->     ```
-> ####    5. `MODS xml` :
->     ```xml
->         <mods xmlns="http://www.loc.gov/mods/v3" version="3.7">
->           <titleInfo>
->             <title>Accuracy Is Not Enough</title>
->             <subTitle>Confusion Matrix Metrics That Actually Work in CVE Impact Prediction</subTitle>
->           </titleInfo>
->         
->           <name type="personal">
->             <namePart>Purushotham, Keerthana</namePart>
->             <role>
->               <roleTerm type="code" authority="marcrelator">aut</roleTerm>
->             </role>
->           </name>
->         
->           <typeOfResource>text</typeOfResource>
->           <genre>Research article</genre>
->         
->           <originInfo>
->             <publisher>Zenodo</publisher>
->             <place>
->               <placeTerm type="text">Online</placeTerm>
->             </place>
->             <dateIssued encoding="w3cdtf" keyDate="yes">2025-09-19</dateIssued>
->           </originInfo>
->         
->           <language>
->             <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
->           </language>
->         
->           <identifier type="doi">10.5281/zenodo.17438182</identifier>
->           <identifier type="uri">https://doi.org/10.5281/zenodo.17438183</identifier>
->         
->           <location>
->             <url usage="primary display">https://doi.org/10.5281/zenodo.17438183</url>
->           </location>
->         
->           <relatedItem type="otherVersion" displayLabel="Also available at">
->             <location>
->               <url>https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion</url>
->             </location>
->           </relatedItem>
->         
->           <relatedItem type="otherVersion">
->             <location>
->               <url>https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b</url>
->             </location>
->           </relatedItem>
->         
->           <relatedItem type="otherVersion">
->             <location>
->               <url>https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main</url>
->             </location>
->           </relatedItem>
->         
->           <note type="statement of responsibility">By Keerthana Purushotham.</note>
->         
->           <recordInfo>
->             <recordContentSource>Self-deposited via Zenodo</recordContentSource>
->             <recordCreationDate encoding="w3cdtf">2025-09-19</recordCreationDate>
->             <languageOfCataloging>
->               <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
->             </languageOfCataloging>
->           </recordInfo>
->         </mods>
->     ```
 
 #### 🔗 Read the full post here:
 > - Medium: [medium.com/post/d4bafd9cec1b](https://medium.com/post/d4bafd9cec1b)
@@ -297,3 +186,114 @@ Thus, this leveled framework transforms the confusion matrix into a decision map
 * Follow me on [LinkedIn - linkedin.com/in/keerthanapurushotham](https://www.linkedin.com/in/keerthanapurushotham/) for more work.  
 * Email: [keep.consult@proton.me](mailto:keep.consult@proton.me)
 * Cite this Article: [github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main/Cite_this_Article](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main/Cite_this_Article)
+---
+### Cite this article - 
+> ##### [*`github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main/Cite_this_Article`*](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main/Cite_this_Article)
+> ##
+> ####    1. `Plain Text` : 
+>     ```text/md
+>         Purushotham, K. (2025, September 19th). *Accuracy is not enough: Confusion matrix metrics that actually work in CVE impact prediction.* Zenodo - [DOI 10.5281/zenodo.17438182](https://doi.org/10.5281/zenodo.17438183) .
+>         
+>         Also available at:
+>         - Substack: https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion
+>         - Medium: https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b  
+>         - GitHub: https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main
+>     ```
+> ####    2. `APA (7th Edition)` :
+>     ```text/md
+>         Purushotham, K. (2025, [September 19th]). Accuracy is not enough: Confusion matrix metrics that actually work in CVE impact prediction. DOI 10.5281/zenodo.17438182 - ( https://doi.org/10.5281/zenodo.17438183 ) .
+>         Also available at:
+>         - [Substack](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
+>         - [Medium](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
+>         - [GitHub](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main)
+>     ```
+> ####    3. `IEEE Style` :
+>     ```text/md
+>         K. Purushotham, “Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction,” Substack, Sep. 2025.  DOI 10.5281/zenodo.17438182 - ( https://doi.org/10.5281/zenodo.17438183 ) .
+>         Also available at:
+>         - [Substack](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
+>         - [Medium](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
+>         - [GitHub](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main)
+>     ```
+> ####    4. `BibTeX Entry` :
+>     ```bibtex
+>         @misc{purushotham2025accuracy,
+>         author       = {Keerthana Purushotham},
+>         title        = {Accuracy Is Not Enough: Confusion Matrix Metrics That Actually Work in CVE Impact Prediction},
+>         howpublished = {Zenodo},
+>         year         = {2025},
+>         month        = {September},
+>         doi          = {10.5281/zenodo.17438182}
+>         url          = {https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion},
+>         note         = {Also available on Substack, Medium and GitHub: 
+>                         \url{https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion},
+>                         \url{https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b}, 
+>                         \url{https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity}}
+>                        }
+>     ```
+> ####    5. `MODS xml` :
+>     ```xml
+>         <mods xmlns="http://www.loc.gov/mods/v3" version="3.7">
+>           <titleInfo>
+>             <title>Accuracy Is Not Enough</title>
+>             <subTitle>Confusion Matrix Metrics That Actually Work in CVE Impact Prediction</subTitle>
+>           </titleInfo>
+>         
+>           <name type="personal">
+>             <namePart>Purushotham, Keerthana</namePart>
+>             <role>
+>               <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+>             </role>
+>           </name>
+>         
+>           <typeOfResource>text</typeOfResource>
+>           <genre>Research article</genre>
+>         
+>           <originInfo>
+>             <publisher>Zenodo</publisher>
+>             <place>
+>               <placeTerm type="text">Online</placeTerm>
+>             </place>
+>             <dateIssued encoding="w3cdtf" keyDate="yes">2025-09-19</dateIssued>
+>           </originInfo>
+>         
+>           <language>
+>             <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+>           </language>
+>         
+>           <identifier type="doi">10.5281/zenodo.17438182</identifier>
+>           <identifier type="uri">https://doi.org/10.5281/zenodo.17438183</identifier>
+>         
+>           <location>
+>             <url usage="primary display">https://doi.org/10.5281/zenodo.17438183</url>
+>           </location>
+>         
+>           <relatedItem type="otherVersion" displayLabel="Also available at">
+>             <location>
+>               <url>https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion</url>
+>             </location>
+>           </relatedItem>
+>         
+>           <relatedItem type="otherVersion">
+>             <location>
+>               <url>https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b</url>
+>             </location>
+>           </relatedItem>
+>         
+>           <relatedItem type="otherVersion">
+>             <location>
+>               <url>https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/tree/main</url>
+>             </location>
+>           </relatedItem>
+>         
+>           <note type="statement of responsibility">By Keerthana Purushotham.</note>
+>         
+>           <recordInfo>
+>             <recordContentSource>Self-deposited via Zenodo</recordContentSource>
+>             <recordCreationDate encoding="w3cdtf">2025-09-19</recordCreationDate>
+>             <languageOfCataloging>
+>               <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+>             </languageOfCataloging>
+>           </recordInfo>
+>         </mods>
+>     ```
