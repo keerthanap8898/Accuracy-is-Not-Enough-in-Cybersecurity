@@ -1,10 +1,11 @@
 # `Accuracy Is Not Enough` 
 ### ┈ *Confusion Matrix Metrics That Actually Work in CVE Impact Prediction.* ┈
 > *by Keerthana Purushotham • 6 min read*
-> 
+> ### ***`License`***
 >     Copyright ⓒ 2025  Keerthana Purushotham <keep.consult@proton.me>.
 >     Licensed under the GNU AGPL v3. See LICENSE for details.
 >     https://zenodo.org/records/17438183
+>  [*See license*](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/LICENSE)
 
 #### 🔗 Read the full post here:
 > - Medium: [medium.com/post/d4bafd9cec1b](https://medium.com/post/d4bafd9cec1b)
