@@ -14,12 +14,19 @@
 >  [*See license*](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/LICENSE)
 ---
 
-#### 🔗 Read the full post here:
-> - Medium: [medium.com/post/d4bafd9cec1b](https://medium.com/post/d4bafd9cec1b)
-> - Substack: [substack.com/home/post/p-174062640](https://substack.com/home/post/p-174062640)
-> - LinkedIn: [linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj/)
-> - Zenodo: [zenodo.org/records/17438182](https://zenodo.org/records/17438182)
-> - Github (*this repo*): [github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity)
+#### 🔗 Also See:
+> 1. Medium: [medium.com/post/d4bafd9cec1b](https://medium.com/post/d4bafd9cec1b)
+> 2. Substack: [substack.com/home/post/p-174062640](https://substack.com/home/post/p-174062640)
+> 3. LinkedIn Post for the original article: [linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj/)
+> 4. Zenodo: [zenodo.org/records/17438182](https://zenodo.org/records/17438182)
+> 5. Github (*this repo*): [github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity)
+> 
+> #### Conference specific Links:
+> > - **Ⓐ.** FiRST.org Publications - VulnCon26: [first.org/resources/papers/2026#:~:text=Accuracy,Purushotham](https://www.first.org/resources/papers/2026#:~:text=Accuracy%20Is%20Not,Keerthana%20Purushotham)
+> > - **Ⓑ.** Program Agenda Listing: [first.org/conference/vulncon26/program#:~:text=CLEAR-,Accuracy%20Is%20Not%20Enough,%3A%20](https://www.first.org/conference/vulncon26/program#:~:text=CLEAR-,Accuracy%20Is%20Not%20Enough,%3A%20)
+> > - **Ⓒ.** Detailed LinkedIn Post to record the converence experience: [lnkd.in/gymWGSNu](https://lnkd.in/gymWGSNu)
+> > - **Ⓓ.** My Public VulnCon26 Artifacts: [1drv.ms/f/c/0d09da568e931e81/IgAIqyDa0Be4SbZlRewEQVbFAR1z8NvJxGunpNLqA29wpRw](https://1drv.ms/f/c/0d09da568e931e81/IgAIqyDa0Be4SbZlRewEQVbFAR1z8NvJxGunpNLqA29wpRw)
+> > - **Ⓔ.** My Presentation Slides: [1drv.ms/b/c/0d09da568e931e81/IQCrnp2QnXynTIYZ11cH1NYJAdEfNP5rZgN30tztWlBs98I](https://1drv.ms/b/c/0d09da568e931e81/IQCrnp2QnXynTIYZ11cH1NYJAdEfNP5rZgN30tztWlBs98I) 
 ---
 
 ### **In cybersecurity**, 
