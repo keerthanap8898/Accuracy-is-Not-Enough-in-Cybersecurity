@@ -1,5 +1,5 @@
 Below is the same setup workflow with **raw reference links & download links** added where they matter.
-## Vuln rx
+
 ---
 
 # Link pack
