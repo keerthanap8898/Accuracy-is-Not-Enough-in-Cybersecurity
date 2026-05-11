@@ -1,6 +1,4 @@
-# `setting-up-VMs-on-MacM1.md`
-
-## `Compact Runbook: Temporary OS / VM Setup for Vulnerability Detection Scripting Problems`
+# `Compact Runbook: Temporary OS / VM Setup for Vulnerability Detection Scripting Problems`
 
 > Minimal, repeatable setup guide for running the temporary OS targets needed for four scripting problems:
 >
