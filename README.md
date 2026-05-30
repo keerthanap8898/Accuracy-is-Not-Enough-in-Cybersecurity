@@ -21,12 +21,15 @@
 > 4. Zenodo: [zenodo.org/records/17438182](https://zenodo.org/records/17438182)
 > 5. Github (*this repo*): [github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity)
 > 
-> #### Conference specific Links:
+> #### VulnCon26 specific Links:
 > > - **Ⓐ.** FiRST.org Publications - VulnCon26: [first.org/resources/papers/2026#:~:text=Accuracy,Purushotham](https://www.first.org/resources/papers/2026#:~:text=Accuracy%20Is%20Not,Keerthana%20Purushotham)
 > > - **Ⓑ.** Program Agenda Listing: [first.org/conference/vulncon26/program#:~:text=CLEAR-,Accuracy%20Is%20Not%20Enough,%3A%20](https://www.first.org/conference/vulncon26/program#:~:text=CLEAR-,Accuracy%20Is%20Not%20Enough,%3A%20)
-> > - **Ⓒ.** Detailed LinkedIn Post to record the converence experience: [lnkd.in/gymWGSNu](https://lnkd.in/gymWGSNu)
+> > - **Ⓒ.** Detailed LinkedIn Post to record the conference experience: [lnkd.in/gymWGSNu](https://lnkd.in/gymWGSNu)
 > > - **Ⓓ.** My Public VulnCon26 Artifacts: [1drv.ms/f/c/0d09da568e931e81/IgAIqyDa0Be4SbZlRewEQVbFAR1z8NvJxGunpNLqA29wpRw](https://1drv.ms/f/c/0d09da568e931e81/IgAIqyDa0Be4SbZlRewEQVbFAR1z8NvJxGunpNLqA29wpRw)
-> > - **Ⓔ.** My Presentation Slides: [1drv.ms/b/c/0d09da568e931e81/IQCrnp2QnXynTIYZ11cH1NYJAdEfNP5rZgN30tztWlBs98I](https://1drv.ms/b/c/0d09da568e931e81/IQCrnp2QnXynTIYZ11cH1NYJAdEfNP5rZgN30tztWlBs98I) 
+> > - ### **Ⓔ.** `Presentation Slides`:
+> >   - [1drv.ms/b/c/0d09da568e931e81/IQCrnp2QnXynTIYZ11cH1NYJAdEfNP5rZgN30tztWlBs98I](https://1drv.ms/b/c/0d09da568e931e81/IQCrnp2QnXynTIYZ11cH1NYJAdEfNP5rZgN30tztWlBs98I)
+> > - ### **Ⓕ.** `Official YouTube Video`:
+> >   - ### [**`youtu.be/NyQy-oubdSI`**](https://youtu.be/NyQy-oubdSI?t=59)
 ---
 
 ### **In cybersecurity**, 
